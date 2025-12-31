@@ -33,7 +33,7 @@ nimcr0n <domain> <concurrent>
 | Argument | Description | Example |
 | --- | --- | --- |
 | domain | The target website domain. | `nimcr0m example.ph <concurrent>` |
-| concurrent | The power or concurrent for Nimcr0n. | `nimcr0m example.ph example.ph 100` |
+| concurrent | The power or concurrent for Nimcr0n. | `nimcr0m example.ph 100` |
 
 <div align="center">
   <sub>This project is distributed under <a href="/LICENSE"><b>MIT License</b></a></sub>
